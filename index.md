@@ -31,7 +31,7 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 
 
 
-{% comment %}
+<!-- {% comment %}
 For a workshop please delete the following block
 {% endcomment %}
 <div class="alert alert-danger">
@@ -41,7 +41,7 @@ workshop request yet, please also fill in
 <a href="{{site.amy_site}}/submit">this workshop request form</a> to let us know
 about your workshop and our administrator may contact you if we need any extra
 information.
-</div>
+</div> -->
 
 {% if page.carpentry != site.carpentry %}
 <div class="alert alert-warning">
